@@ -17,5 +17,7 @@ public class substring {
 
         System.out.println("User Name: " + userName);
         System.out.println("Domain: " + domain);
+
+        sc.close();
     }
 }
